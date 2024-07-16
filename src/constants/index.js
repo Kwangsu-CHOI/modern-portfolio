@@ -6,7 +6,7 @@ import {
   benefitImage2,
   chromecast,
   disc02,
-  discordBlack,
+  Linkedin,
   facebook,
   figma,
   html,
@@ -332,9 +332,9 @@ export const benefits = [
 export const socials = [
   {
     id: "0",
-    title: "Discord",
-    iconUrl: discordBlack,
-    url: "#",
+    title: "Linkedin",
+    iconUrl: Linkedin,
+    url: "https://www.linkedin.com/in/kwangsu-choi",
   },
   {
     id: "1",
@@ -350,12 +350,6 @@ export const socials = [
   },
   {
     id: "3",
-    title: "Telegram",
-    iconUrl: telegram,
-    url: "#",
-  },
-  {
-    id: "4",
     title: "Facebook",
     iconUrl: facebook,
     url: "#",
