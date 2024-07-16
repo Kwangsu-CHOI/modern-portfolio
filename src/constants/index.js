@@ -156,7 +156,7 @@ export const roadmap = [
 ];
 
 export const collabText =
-  "Full stack web application, mainly using Next.js, React, Prisma, MongoDB.";
+  "Full stack / Front end web application, mainly using HTML/CSS, Tailwind css, Next.js, React, Prisma, MongoDB.";
 export const collabText2 = "Front end Web Apps built using React, CSS/Tailwind";
 export const collabText3 = "Design focused simple apps built using HTML/CSS";
 

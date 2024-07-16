@@ -53,7 +53,7 @@ const Roadmap = () => (
 
                   <div className="mb-10 -my-10 -mx-15">
                     <img
-                      className="rounded-md w-full opacity-70"
+                      className="rounded-md w-full opacity-70 mt-14"
                       src={item.imageUrl}
                       width={628}
                       height={426}
